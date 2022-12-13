@@ -5,7 +5,7 @@
   "author": "https://github.com/gokulkrishh",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "node-gcm": "^1.0.2",
     "snyk": "^1.316.1"
   },
